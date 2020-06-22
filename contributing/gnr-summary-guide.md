@@ -133,7 +133,7 @@ The Governance Calls often have visual presentations. The most efficient way to 
 
 ### Tips
 
-- Consult the [Writer Style Guide](./contributing/style-guide.md) and [Reviewer Guides](./contributing/reviewer-guide.md) for additional helpful information.
+- Consult the [Writer Style Guide](./contributing/writing-style-guide.md) and [Reviewer Guides](./contributing/reviewer-guide.md) for additional helpful information.
 - Read for clarity before rewatching. While doing so, edit for low hanging fruit: readability, spelling or grammar mistakes, and formatting errors.
 - Rewatch at a comfortable playback speed; speeds up to 2x are available on YouTube.
 - Use tools like [Grammarly](https://app.grammarly.com/) to help you find missed mistakes once you are done with your section.
